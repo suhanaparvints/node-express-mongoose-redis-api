@@ -1,4 +1,4 @@
-# CRUD Node, Express, and MongoDB API
+# CRUD Node, Express, and Mongoose Redis API
 
 A JSON REST API for registering and authenticating users and managing user
 records. It uses Node.js, Express, MongoDB, and Mongoose, with bcrypt password
